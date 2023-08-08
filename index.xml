@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>V4Zen</title>
-        <link>https://v4zen.org/</link>
-        <description>the personal webpage of Valentin Binotto</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>valentin@v434infra2.com (Valentin Binotto)</managingEditor>
-            <webMaster>valentin@v434infra2.com (Valentin Binotto)</webMaster>
-            <atom:link href="https://v4zen.org/index.xml" rel="self" type="application/rss+xml" />
+        <title>lucy-64512</title>
+        <link>https://tokyo.lucy-64512.backbonefusion.net/</link>
+        <description>lucy-64512</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lucy-64512</managingEditor>
+            <webMaster>lucy-64512</webMaster>
+            <atom:link href="https://tokyo.lucy-64512.backbonefusion.net/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
