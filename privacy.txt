@@ -1,21 +1,24 @@
 ######### Privacy Policy #########
 
-This Privacy Policy applies, unless otherwise stated, to any web pages of the V434 Project respectively Valentin Binotto (hereinafter referred to as "we", "us", "We" or "Us") made available through the infrastructure of Cloudflare, Inc.
+This Privacy Policy applies, unless otherwise stated, to any web pages of the V434 Project respectively Valentin Binotto or any other organization, alias or entity under Valentin Binotto's control (hereinafter referred to as "we", "us", "We" or "Us") made available through the infrastructure of GitHub, Inc.
 
-Data protection is a fundamental value for us. Thus, we do not only comply with the relevant laws - we also do not entrench any rights in the fine print.
+Data protection is a important topic. Thus, we do not only comply with the relevant laws - we also do not entrench any rights in the fine print.
  
 Specifically:
 
 - We process personal data exclusively as long as this is evident and necessary for the respective purpose. Such cases in which we process or receive data are described in this privacy policy. They may be collected by third parties and passed on to us. Such cases are also described in this privacy policy.
     
-- We use services and servers of Cloudflare, Inc. based in the United States of America. By visiting our websites, the privacy policy of Cloudflare, Inc. applies. The privacy policy of Cloudflare, Inc. can be viewed at: https://www.cloudflare.com/privacypolicy/.
+- We use services and servers of GitHub, Inc. based in the United States of America. By visiting our websites, the privacy policy of GitHub, Inc. applies. The privacy policy of GitHub, Inc. can be viewed at: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
     
-- Cloudflare, Inc. may collect some personal data (e.g. IP addresses). We receive this data only in anonymized form. This means that we can assign the number of visits to our site or domains to individual countries, but we do not have access to any recorded IP addresses themselves.
+- GitHub, Inc. may collect some personal data (e.g. IP addresses) of you. We do not receive this data in any form. However, please be aware that this data may be collected and used by GitHub. Please consult Github's privacy policy for more information.
+
+- We do not use any cookies.
     
-- We do not use cookies.
-    
-- In some cases, we use links to third-party websites. The respective privacy policies of these third parties come into effect as soon as you follow these links. The V434 Project has no control over these third party sites.
+- In some cases, we use links to third-party websites. The respective privacy policies of these third parties come into effect as soon as you follow these links. We have no control over these third party sites.
 
 
-If you have any further questions regarding this privacy statement, please contact us via mail: privacy.websites AT v434project.com
+If you have any further questions regarding this privacy statement, please contact us via the following ways: 
+
+E-Mail: privacy.websites AT network-operations DOT net
+Phone: +41 (0)43 883 33 28 ext. 43
 
